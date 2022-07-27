@@ -7,5 +7,4 @@ def decode_char(str)
     'S' => '...', 'T' => '-', 'U' => '..-', 'V' => '...-', 'W' => '.--', 'X' => '-..-',
     'Y' => '-.--', 'Z' => '--..'
   }
-
-  xxxxhnnnn,;;'''kjhgh
+chdjdhdjfifufkfj
