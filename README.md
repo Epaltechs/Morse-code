@@ -9,7 +9,7 @@ To launch the project locally:
 
 ### Step 1:
 Clone this repo locally using git in the command line and the following command
-> https://github.com/RWUBAKWANAYO/Morse-code-message.git
+> https://github.com/Epaltechs/Morse-code.git
 Alternatively, you can just download the complete zip file and extract the folder in your directory
 
 ### Step 2:
@@ -19,21 +19,18 @@ or alternatively you can copy and paste the commands in
 > irb 
 
 ## 👤 Authors
-:bust_in_silhouette: Emmanuel Paul
-GitHub: (https://github.com/Epaltechs)
-Twitter: [https://twitter.com/@emmapaul247]
-LinkedIn: [https://www.linkedin.com/in/emmanuel-s-paul]
-AngeList: [https://angel.co/u/emmanuel-s-paul]
- 
-:bust_in_silhouette: Artur Gouveia
-[GitHub](https://github.com/Arturgouveia1970)
-[Twitter](https://twitter.com/@arturgouveia10)
-[LinkedIn](https://www.linkedin.com/in/artur-gouveia-323868197/)
 
-:bust_in_silhouette: Joseph Kwesi Kwentsir
-GitHub: [@Kwentsir](https://github.com/Kwentsir/)
-Twitter: [@jkwentsir](https://twitter.com/jkwentsir)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/josephkwentsir/)
+:bust_in_silhouette: **Emmanuel Paul**
+- GitHub: [@Epaltechs](https://github.com/Epaltechs)
+- LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-s-paul)
+
+:bust_in_silhouette: **Artur Gouveia**
+- GitHub: [@Arturgouveia1970](https://github.com/Arturgouveia1970)
+- LinkedIn: [Artur Gouveia](https://www.linkedin.com/in/artur-gouveia-323868197/)
+
+:bust_in_silhouette: **Joseph Kwesi Kwentsir**
+- GitHub: [@Kwentsir](https://github.com/Kwentsir/)
+- LinkedIn: [Joseph Kwentsir](https://www.linkedin.com/in/josephkwentsir/)
 
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
