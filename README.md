@@ -33,16 +33,16 @@ or alternatively you can copy and paste the commands in
 - LinkedIn: [Joseph Kwentsir](https://www.linkedin.com/in/josephkwentsir/)
 
 ## :handshake: Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the issues page.
 
 ## Show your support
 Give a :star:️ if you like this project!
 
 ## Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+- Hat tip to anyone whose code was used
+= Inspiration
+- etc
 
 ## :memo: License
 This project is MIT licensed.
